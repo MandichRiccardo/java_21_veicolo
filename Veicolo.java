@@ -30,7 +30,7 @@ public abstract class Veicolo{
         this.accelerazione = accelerazione;
     }
 
-    public static void printVelocità(Veicolo v){
+    public static void printVelocita(Veicolo v){
         System.out.println("la velocità di questo veicolo è " + v.velocita);
     }
 
